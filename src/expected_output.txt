@@ -1,0 +1,5097 @@
+
+word "'" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 39, column 30
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 30, column 44
+word "'49" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 2, column 31
+      at line 78, column 14
+word "'50" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 78, column 19
+word "'51" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 78, column 24
+word "'52" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 78, column 29
+word "'53" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 39, column 24
+      at line 78, column 34
+word "'54" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 78, column 39
+word "'55" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 78, column 44
+word "'56" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 78, column 49
+word "'57" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 79, column 1
+word "'58" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 79, column 6
+word "'59" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 79, column 11
+word "'60" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 80, column 8
+word "'61" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 80, column 13
+word "'62" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 80, column 18
+word "'63" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 80, column 23
+word "'64" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 80, column 28
+word "'65" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 80, column 33
+word "'66" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 80, column 38
+word "'67" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 80, column 43
+word "'68" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 81, column 1
+word "'69" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 81, column 6
+word "'70" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 81, column 11
+word "'73" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 40, column 34
+word "'em" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 18
+word "'sue" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 39, column 25
+word "'this" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 29, column 24
+word "'til" occurs 1 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 24, column 1
+word "-" occurs 4 times:
+   in file "test_dir/last_sunday.txt":
+      at line 20, column 20
+      at line 26, column 20
+   in file "test_dir/returning_your_portret.txt":
+      at line 10, column 12
+      at line 18, column 12
+word "1" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 1, column 8
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 1, column 8
+word "10" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 74, column 8
+word "2" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 9, column 8
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 23, column 8
+word "3" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 17, column 8
+word "4" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 25, column 8
+word "5" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 33, column 8
+word "6" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 42, column 8
+word "7" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 50, column 8
+word "8" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 58, column 8
+word "9" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 66, column 8
+word "a" occurs 81 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 9, column 21
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 1, column 13
+      at line 2, column 24
+      at line 11, column 15
+      at line 12, column 6
+      at line 21, column 4
+      at line 22, column 1
+      at line 23, column 6
+      at line 28, column 32
+      at line 37, column 4
+      at line 38, column 1
+      at line 39, column 6
+      at line 44, column 30
+      at line 46, column 26
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 1, column 23
+      at line 3, column 23
+      at line 5, column 30
+      at line 10, column 21
+      at line 12, column 21
+      at line 13, column 30
+      at line 17, column 23
+      at line 19, column 23
+      at line 21, column 30
+      at line 29, column 21
+      at line 31, column 21
+      at line 32, column 30
+      at line 41, column 21
+      at line 43, column 21
+      at line 44, column 30
+      at line 48, column 23
+      at line 50, column 23
+      at line 52, column 30
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 10, column 40
+      at line 11, column 12
+      at line 15, column 32
+      at line 21, column 12
+      at line 28, column 36
+      at line 29, column 21
+      at line 30, column 10
+      at line 35, column 6
+      at line 45, column 17
+      at line 45, column 37
+      at line 46, column 14
+      at line 53, column 16
+      at line 53, column 39
+      at line 60, column 8
+      at line 67, column 43
+      at line 77, column 22
+      at line 80, column 20
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 8, column 26
+      at line 10, column 30
+      at line 13, column 13
+      at line 13, column 34
+      at line 16, column 25
+      at line 17, column 25
+      at line 26, column 22
+      at line 27, column 30
+      at line 30, column 24
+      at line 31, column 41
+      at line 32, column 15
+      at line 39, column 22
+      at line 40, column 32
+      at line 43, column 10
+      at line 44, column 38
+      at line 53, column 54
+      at line 62, column 23
+      at line 63, column 23
+      at line 78, column 12
+      at line 80, column 6
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 4, column 13
+      at line 8, column 14
+      at line 13, column 12
+      at line 23, column 12
+      at line 34, column 8
+      at line 44, column 5
+      at line 49, column 13
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 9, column 8
+      at line 23, column 9
+   in file "test_dir/last_sunday.txt":
+      at line 10, column 1
+      at line 20, column 1
+      at line 26, column 1
+word "a'" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 11, column 33
+      at line 48, column 13
+word "a-daptor" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 43, column 39
+word "about" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 78, column 13
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 51, column 1
+word "abundance" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 9, column 23
+word "across" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 46, column 28
+word "after" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 27, column 12
+      at line 43, column 18
+word "ah" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 25, column 2
+word "ahh" occurs 8 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 25, column 1
+      at line 25, column 6
+      at line 26, column 1
+      at line 26, column 6
+      at line 36, column 1
+      at line 36, column 6
+      at line 37, column 1
+      at line 37, column 6
+word "ain't" occurs 19 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 1, column 5
+      at line 3, column 5
+      at line 5, column 11
+      at line 6, column 9
+      at line 13, column 11
+      at line 14, column 9
+      at line 17, column 5
+      at line 19, column 5
+      at line 21, column 11
+      at line 22, column 9
+      at line 32, column 11
+      at line 33, column 9
+      at line 44, column 11
+      at line 45, column 9
+      at line 48, column 5
+      at line 50, column 5
+      at line 52, column 11
+      at line 53, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 15, column 17
+word "all" occurs 21 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 2, column 8
+      at line 4, column 8
+      at line 18, column 8
+      at line 20, column 8
+      at line 49, column 8
+      at line 51, column 8
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 7, column 1
+      at line 17, column 1
+      at line 23, column 23
+      at line 27, column 1
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 75, column 7
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 12, column 27
+      at line 32, column 34
+      at line 34, column 27
+      at line 36, column 29
+      at line 37, column 26
+      at line 41, column 39
+      at line 47, column 35
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 43, column 17
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 24, column 25
+      at line 25, column 7
+word "all-eating" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 27, column 9
+word "almost" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 39, column 10
+word "along" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 61, column 43
+word "always" occurs 8 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 3, column 6
+      at line 9, column 6
+      at line 20, column 6
+      at line 26, column 6
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 9, column 7
+      at line 19, column 7
+      at line 29, column 7
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 7, column 11
+word "an" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 26
+      at line 29, column 4
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 31, column 27
+      at line 43, column 36
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 27, column 6
+word "and" occurs 106 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 36
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 4, column 1
+      at line 14, column 1
+      at line 24, column 12
+      at line 29, column 21
+      at line 30, column 1
+      at line 40, column 12
+      at line 45, column 23
+      at line 46, column 1
+      at line 53, column 1
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 6, column 1
+      at line 14, column 1
+      at line 22, column 1
+      at line 33, column 1
+      at line 45, column 1
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 4, column 1
+      at line 9, column 1
+      at line 14, column 1
+      at line 19, column 1
+      at line 29, column 1
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 3, column 1
+      at line 3, column 32
+      at line 4, column 22
+      at line 5, column 37
+      at line 7, column 29
+      at line 11, column 1
+      at line 13, column 23
+      at line 14, column 1
+      at line 14, column 22
+      at line 18, column 23
+      at line 19, column 18
+      at line 21, column 30
+      at line 22, column 33
+      at line 23, column 1
+      at line 27, column 1
+      at line 27, column 21
+      at line 28, column 20
+      at line 36, column 1
+      at line 36, column 35
+      at line 37, column 12
+      at line 37, column 21
+      at line 37, column 30
+      at line 38, column 1
+      at line 38, column 21
+      at line 39, column 1
+      at line 44, column 1
+      at line 45, column 25
+      at line 47, column 1
+      at line 47, column 33
+      at line 48, column 9
+      at line 48, column 35
+      at line 48, column 49
+      at line 53, column 23
+      at line 54, column 19
+      at line 55, column 21
+      at line 56, column 30
+      at line 59, column 1
+      at line 60, column 1
+      at line 61, column 1
+      at line 62, column 24
+      at line 64, column 1
+      at line 68, column 1
+      at line 68, column 25
+      at line 69, column 17
+      at line 71, column 27
+      at line 75, column 21
+      at line 76, column 1
+      at line 76, column 25
+      at line 77, column 1
+      at line 78, column 1
+      at line 78, column 28
+      at line 79, column 18
+      at line 80, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 3, column 1
+      at line 6, column 1
+      at line 6, column 32
+      at line 7, column 46
+      at line 17, column 1
+      at line 25, column 23
+      at line 31, column 1
+      at line 31, column 37
+      at line 32, column 30
+      at line 34, column 12
+      at line 34, column 23
+      at line 38, column 1
+      at line 40, column 1
+      at line 41, column 1
+      at line 43, column 1
+      at line 46, column 24
+      at line 49, column 24
+      at line 52, column 1
+      at line 53, column 25
+      at line 55, column 1
+      at line 59, column 1
+      at line 63, column 1
+      at line 74, column 1
+      at line 76, column 1
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 33, column 16
+      at line 38, column 13
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 12, column 1
+      at line 14, column 1
+      at line 16, column 38
+      at line 21, column 1
+      at line 27, column 27
+      at line 30, column 21
+      at line 33, column 1
+word "another" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 45, column 30
+word "answer" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 29, column 17
+word "any" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 9, column 33
+word "anything" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 81, column 17
+word "are" occurs 2 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 1, column 25
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 22, column 13
+word "arm" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 28, column 40
+word "around" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 19, column 19
+      at line 21, column 41
+      at line 56, column 44
+      at line 65, column 19
+      at line 67, column 41
+word "art" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 11, column 11
+      at line 32, column 36
+word "as" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 4, column 21
+      at line 14, column 5
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 5, column 5
+word "asked" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 24, column 12
+word "assembly" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 3, column 32
+word "at" occurs 11 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 13, column 32
+      at line 29, column 13
+      at line 45, column 15
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 29, column 1
+      at line 30, column 7
+      at line 38, column 14
+      at line 56, column 24
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 13, column 25
+      at line 16, column 22
+      at line 57, column 14
+      at line 62, column 20
+word "automobile" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 79, column 15
+      at line 81, column 15
+word "away" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 77, column 12
+word "awful" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 23, column 36
+word "back" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 13, column 10
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 2, column 23
+      at line 48, column 5
+word "band" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 2, column 26
+      at line 30, column 48
+      at line 46, column 44
+word "barrow" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 1, column 15
+word "bars" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 22, column 37
+word "be" occurs 13 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 3, column 13
+      at line 9, column 13
+      at line 20, column 13
+      at line 26, column 13
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 27, column 21
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 23, column 6
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 60, column 42
+      at line 61, column 23
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 9, column 13
+      at line 40, column 29
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 15, column 38
+      at line 23, column 6
+      at line 32, column 14
+word "bear" occurs 2 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 23, column 20
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 6, column 23
+word "beauties" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 5, column 26
+word "beauty" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 24, column 33
+      at line 31, column 13
+word "beauty's" occurs 3 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 4, column 14
+      at line 21, column 30
+      at line 28, column 35
+word "because" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 72, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 7, column 1
+      at line 21, column 1
+      at line 58, column 1
+      at line 67, column 1
+word "beer" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 48, column 57
+word "bees" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 40
+word "before" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 7, column 5
+      at line 70, column 27
+word "begins" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 14, column 31
+word "being" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 24, column 6
+word "belong" occurs 1 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 13, column 23
+word "bent" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 37, column 16
+word "besiege" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 20, column 26
+word "best" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 1, column 5
+word "between" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 43, column 28
+word "big" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 37, column 8
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 25, column 9
+      at line 33, column 37
+      at line 35, column 9
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 34, column 10
+word "bill" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 81, column 1
+word "bills" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 10, column 30
+word "birds" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 30
+word "bit" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 53, column 30
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 43, column 19
+word "black" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 7, column 50
+word "blame" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 5, column 14
+      at line 69, column 32
+word "bleep" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 72, column 27
+word "blocks" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 56, column 37
+word "blood" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 38, column 28
+      at line 48, column 43
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 33, column 13
+word "boat" occurs 11 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 1, column 20
+      at line 6, column 20
+      at line 11, column 20
+      at line 16, column 20
+      at line 21, column 19
+      at line 26, column 20
+      at line 31, column 20
+      at line 33, column 29
+      at line 36, column 20
+      at line 41, column 20
+      at line 46, column 20
+word "bogatszy" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 4, column 22
+word "bolts" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 34, column 16
+      at line 41, column 33
+word "booze" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 45
+word "bottle" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 35
+word "boy" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 15, column 34
+word "bra" occurs 8 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 6, column 32
+      at line 8, column 32
+      at line 16, column 32
+      at line 18, column 32
+      at line 32, column 37
+      at line 34, column 37
+      at line 48, column 38
+      at line 50, column 38
+word "brew" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 28, column 38
+word "bridge" occurs 2 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 24, column 2
+      at line 35, column 2
+word "bright" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 7, column 34
+word "brook" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 7, column 17
+word "brow" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 20, column 38
+word "bud" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 13, column 18
+word "buddy's" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 35, column 38
+word "built" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 21, column 32
+      at line 37, column 32
+word "buriest" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 13, column 22
+word "bust" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 14, column 30
+word "busted" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 46, column 7
+word "but" occurs 27 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 1
+      at line 10, column 1
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 1, column 19
+      at line 3, column 19
+      at line 17, column 19
+      at line 19, column 19
+      at line 48, column 19
+      at line 50, column 19
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 6, column 1
+      at line 21, column 1
+      at line 44, column 19
+      at line 46, column 1
+      at line 52, column 1
+      at line 70, column 1
+      at line 81, column 26
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 12, column 1
+      at line 28, column 1
+      at line 35, column 1
+      at line 47, column 1
+      at line 49, column 1
+      at line 53, column 1
+      at line 57, column 1
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 4, column 9
+      at line 28, column 14
+      at line 49, column 9
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 5, column 1
+      at line 7, column 1
+word "buys" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 12, column 1
+word "by" occurs 6 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 4, column 38
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 5, column 40
+      at line 12, column 31
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 5, column 25
+      at line 16, column 25
+      at line 31, column 20
+word "będzie" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 20, column 13
+      at line 26, column 13
+word "będziesz" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 19, column 1
+      at line 25, column 1
+word "cadillac" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 72, column 21
+word "cadillacs" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 46
+word "called" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 76, column 7
+      at line 76, column 32
+word "came" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 77, column 7
+word "can" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 9
+word "can't" occurs 2 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 18, column 21
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 52, column 14
+word "car" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 13, column 15
+word "carat" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 12, column 15
+word "catch" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 8, column 8
+word "caught" occurs 7 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 5, column 23
+      at line 13, column 23
+      at line 21, column 23
+      at line 32, column 23
+      at line 44, column 23
+      at line 52, column 23
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 11, column 13
+word "cause" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 5, column 24
+word "chair" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 46, column 16
+word "cheaper" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 76, column 24
+word "cheek" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 36, column 29
+word "child" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 29, column 35
+word "children" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 28, column 18
+      at line 44, column 16
+word "choked" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 75, column 11
+word "chorus" occurs 4 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 16, column 2
+      at line 47, column 2
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 15, column 2
+      at line 61, column 2
+word "chrome" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 32, column 45
+word "churl" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 14, column 13
+word "classed" occurs 6 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 9, column 29
+      at line 11, column 30
+      at line 28, column 29
+      at line 30, column 30
+      at line 40, column 29
+      at line 42, column 34
+word "co" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 20, column 3
+      at line 26, column 3
+word "cold" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 38, column 38
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 33, column 45
+word "come" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 45, column 4
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 18, column 27
+      at line 47, column 53
+      at line 64, column 28
+      at line 72, column 31
+word "complete" occurs 1 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 3, column 23
+word "considered" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 27, column 12
+word "content" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 13, column 34
+word "contracted" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 7, column 10
+word "cost" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 17, column 17
+      at line 63, column 15
+      at line 74, column 21
+word "cotton" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 71, column 13
+      at line 73, column 18
+word "could" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 33, column 21
+      at line 52, column 7
+      at line 56, column 3
+word "couldst" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 29, column 9
+word "count" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 30, column 14
+word "couple" occurs 4 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 21, column 6
+      at line 23, column 8
+      at line 37, column 6
+      at line 39, column 8
+word "court" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 57, column 21
+word "crashed" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 47, column 8
+word "creatures" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 3, column 14
+word "creek" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 12, column 17
+word "crocodile" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 53, column 41
+word "cruel" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 10, column 41
+word "cry" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 6, column 36
+word "crying" occurs 6 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 2, column 1
+      at line 4, column 1
+      at line 18, column 1
+      at line 20, column 1
+      at line 49, column 1
+      at line 51, column 1
+word "cuss" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 54, column 40
+word "cut" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 45, column 29
+word "czas" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 14, column 12
+word "czule" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 17, column 10
+word "dad" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 34, column 42
+word "daddy" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 2, column 4
+word "daj" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 8, column 1
+word "darling" occurs 3 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 8, column 8
+      at line 18, column 8
+      at line 28, column 8
+word "day" occurs 6 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 5, column 7
+      at line 8, column 5
+      at line 24, column 18
+      at line 26, column 13
+      at line 30, column 11
+      at line 31, column 14
+word "days" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 25, column 37
+word "dealing" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 30, column 19
+word "dear" occurs 1 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 21, column 25
+word "decease" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 5, column 33
+word "deep" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 21, column 9
+      at line 26, column 26
+word "definitely" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 38, column 47
+word "deserv'd" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 28, column 22
+word "desire" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 3, column 27
+word "desmond" occurs 7 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 1, column 1
+      at line 3, column 1
+      at line 11, column 1
+      at line 24, column 4
+      at line 28, column 1
+      at line 40, column 4
+      at line 45, column 1
+word "detroit" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 3, column 13
+word "devised" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 8, column 11
+word "did" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 6, column 36
+word "didn't" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 3, column 8
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 57, column 38
+      at line 63, column 8
+word "die" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 40, column 21
+      at line 63, column 35
+      at line 70, column 36
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 4, column 40
+word "different" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 77, column 24
+word "dig" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 21, column 5
+word "dime" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 17, column 27
+      at line 63, column 25
+word "dirty" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 31, column 9
+word "dla" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 16, column 20
+word "do" occurs 17 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 1, column 15
+      at line 4, column 20
+      at line 5, column 15
+      at line 7, column 15
+      at line 10, column 20
+      at line 11, column 15
+      at line 18, column 15
+      at line 21, column 20
+      at line 22, column 15
+      at line 24, column 15
+      at line 27, column 20
+      at line 28, column 15
+      at line 29, column 15
+      at line 30, column 19
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 39, column 36
+      at line 39, column 43
+      at line 69, column 49
+word "does" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 29, column 25
+      at line 45, column 27
+word "dog" occurs 7 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 1, column 31
+      at line 3, column 31
+      at line 17, column 31
+      at line 19, column 31
+      at line 48, column 31
+      at line 50, column 31
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 31, column 22
+word "don't" occurs 7 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 10, column 17
+      at line 17, column 7
+      at line 18, column 9
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 5, column 8
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 19, column 1
+      at line 24, column 1
+      at line 33, column 1
+word "done" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 39, column 17
+word "door" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 13, column 39
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 53, column 20
+word "doubts" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 52, column 46
+word "down" occurs 10 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 44, column 13
+      at line 75, column 33
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 55, column 27
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 2, column 8
+      at line 7, column 8
+      at line 12, column 8
+      at line 17, column 8
+      at line 32, column 8
+      at line 42, column 8
+      at line 47, column 8
+word "dość" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 19, column 18
+      at line 25, column 18
+word "drag" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 55, column 37
+word "dream" occurs 2 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 4, column 15
+      at line 49, column 15
+word "dreams" occurs 3 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 7, column 8
+      at line 17, column 8
+      at line 27, column 8
+word "drilled" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 42, column 7
+word "drive" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 20, column 14
+      at line 66, column 14
+word "drove" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 54, column 7
+word "dry" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 27, column 39
+word "due" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 16, column 20
+word "dzisiaj" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 12, column 1
+      at line 13, column 1
+word "dziś" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 4, column 1
+      at line 17, column 16
+word "ear" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 45, column 51
+word "easy" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 15, column 23
+word "eat" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 16, column 4
+word "else" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 15, column 20
+word "empty" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 29
+word "end" occurs 2 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 24, column 10
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 48, column 10
+word "engine" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 31, column 30
+      at line 44, column 13
+word "envy" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 9, column 20
+word "especially" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 29, column 1
+word "evening" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 30, column 12
+      at line 46, column 12
+word "ever" occurs 4 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 27, column 7
+      at line 43, column 13
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 6, column 31
+      at line 80, column 10
+word "every" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 79, column 1
+      at line 79, column 22
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 5, column 1
+word "everybody" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 20, column 20
+      at line 56, column 14
+      at line 66, column 20
+word "everything" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 17, column 17
+word "evil" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 36, column 43
+word "excuse" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 30, column 37
+word "eye" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 36, column 48
+      at line 71, column 46
+word "eyes" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 43, column 40
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 52, column 24
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 7, column 41
+      at line 26, column 38
+word "face" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 3, column 43
+      at line 29, column 41
+      at line 45, column 43
+word "factory" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 75, column 38
+word "fair" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 29, column 30
+word "fairest" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 3, column 6
+word "fakt" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 3, column 1
+word "famine" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 9, column 10
+word "feed'st" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 8, column 1
+word "feel'st" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 33, column 34
+word "field" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 21, column 39
+word "fight" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 12, column 19
+      at line 67, column 45
+word "figured" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 12, column 7
+word "fired" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 11, column 34
+word "first" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 55, column 39
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 5
+      at line 30, column 5
+word "fish" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 8, column 23
+word "fist" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 19, column 4
+word "fit" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 42, column 39
+word "flame" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 8, column 21
+word "flow" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 27, column 17
+word "foe" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 10, column 14
+word "folk" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 11, column 44
+word "fooled" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 43, column 7
+word "foot" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 44, column 38
+word "for" occurs 10 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 22
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 8, column 1
+      at line 13, column 1
+      at line 18, column 1
+      at line 28, column 1
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 15, column 28
+      at line 55, column 9
+      at line 71, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 53, column 50
+      at line 56, column 33
+word "forget" occurs 2 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 19, column 7
+      at line 24, column 7
+word "forty" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 20, column 6
+word "fought" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 51, column 18
+      at line 67, column 24
+word "four" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 34, column 31
+word "free" occurs 2 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 1, column 29
+      at line 27, column 24
+word "fresh" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 11, column 31
+word "friend" occurs 7 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 6, column 18
+      at line 14, column 18
+      at line 22, column 18
+      at line 33, column 18
+      at line 45, column 18
+      at line 53, column 14
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 25, column 45
+word "from" occurs 6 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 11, column 28
+      at line 20, column 10
+      at line 35, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 25, column 37
+      at line 43, column 31
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 3, column 1
+word "fuel" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 30, column 26
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 8, column 49
+word "fulfill" occurs 3 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 7, column 15
+      at line 17, column 15
+      at line 27, column 15
+word "full" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 26, column 33
+word "fun" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 53, column 22
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 28, column 10
+word "funny" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 48, column 29
+word "gal" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 13, column 6
+word "gatlinburg" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 26, column 14
+word "gaudy" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 12, column 24
+word "gave" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 23, column 23
+word "gazed" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 22, column 29
+word "gears" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 26, column 41
+word "gently" occurs 8 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 2, column 1
+      at line 7, column 1
+      at line 12, column 1
+      at line 17, column 1
+      at line 22, column 1
+      at line 32, column 1
+      at line 42, column 1
+      at line 47, column 1
+word "george" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 81, column 9
+word "get" occurs 7 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 17, column 13
+      at line 18, column 15
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 13, column 31
+      at line 63, column 22
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 16, column 5
+      at line 33, column 27
+      at line 54, column 29
+word "gets" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 18, column 14
+word "getting" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 11, column 5
+      at line 11, column 26
+word "giggle" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 13, column 16
+word "girl" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 3, column 25
+word "give" occurs 8 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 4, column 5
+      at line 9, column 13
+      at line 12, column 5
+      at line 20, column 5
+      at line 25, column 11
+      at line 32, column 11
+      at line 35, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 62, column 6
+word "gives" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 14, column 11
+word "glutton" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 15, column 30
+word "gm" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 28, column 5
+word "go" occurs 1 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 2, column 14
+word "goes" occurs 16 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 6, column 24
+      at line 7, column 22
+      at line 8, column 24
+      at line 9, column 22
+      at line 16, column 24
+      at line 17, column 22
+      at line 18, column 24
+      at line 19, column 22
+      at line 32, column 29
+      at line 33, column 22
+      at line 34, column 29
+      at line 35, column 22
+      at line 48, column 30
+      at line 49, column 22
+      at line 50, column 30
+      at line 51, column 22
+word "going" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 40, column 12
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 19, column 5
+      at line 20, column 5
+      at line 65, column 5
+      at line 66, column 5
+word "golden" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 12, column 21
+      at line 12, column 34
+word "gone" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 41, column 58
+word "gonna" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 60, column 16
+      at line 80, column 39
+word "goodbye" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 62, column 35
+word "got" occurs 11 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 11, column 8
+      at line 19, column 9
+      at line 19, column 30
+      at line 68, column 33
+      at line 75, column 3
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 30, column 17
+      at line 31, column 20
+      at line 32, column 8
+      at line 49, column 36
+      at line 59, column 15
+      at line 62, column 3
+word "gotta" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 60, column 36
+word "gouging" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 48, column 16
+word "grand" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 13, column 44
+word "grave" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 16, column 32
+word "gravel" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 71, column 9
+word "gray" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 37, column 25
+word "grew" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 18, column 9
+      at line 18, column 29
+word "guitar" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 15
+word "gun" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 55, column 17
+      at line 75, column 41
+word "guts" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 71, column 22
+word "guy'd" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 14, column 10
+word "ha" occurs 23 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 25, column 5
+      at line 25, column 8
+      at line 25, column 11
+      at line 25, column 14
+      at line 25, column 17
+      at line 33, column 31
+      at line 33, column 34
+      at line 33, column 37
+      at line 41, column 2
+      at line 41, column 5
+      at line 41, column 8
+      at line 41, column 11
+      at line 41, column 14
+      at line 41, column 17
+      at line 41, column 20
+      at line 41, column 23
+      at line 41, column 26
+      at line 41, column 29
+      at line 56, column 17
+      at line 56, column 20
+      at line 56, column 23
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 43, column 1
+      at line 43, column 4
+word "had" occurs 7 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 12, column 12
+      at line 35, column 42
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 21
+      at line 44, column 4
+      at line 46, column 4
+      at line 50, column 43
+      at line 52, column 38
+word "hand" occurs 4 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 4, column 45
+      at line 28, column 34
+      at line 44, column 32
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 10, column 47
+word "hang" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 6, column 19
+word "happy" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 27, column 1
+      at line 43, column 7
+word "hard" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 19, column 13
+      at line 43, column 17
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 28, column 27
+word "has" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 1, column 9
+word "hate" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 68, column 16
+      at line 81, column 43
+word "have" occurs 10 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 21, column 27
+      at line 37, column 27
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 3, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 28, column 24
+      at line 63, column 14
+      at line 80, column 15
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 12, column 19
+      at line 13, column 5
+      at line 21, column 14
+      at line 67, column 14
+word "he" occurs 17 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 14, column 8
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 3, column 5
+      at line 5, column 30
+      at line 6, column 28
+      at line 7, column 12
+      at line 7, column 21
+      at line 10, column 7
+      at line 37, column 1
+      at line 44, column 5
+      at line 45, column 1
+      at line 53, column 1
+      at line 53, column 27
+      at line 55, column 1
+      at line 56, column 1
+      at line 59, column 5
+      at line 67, column 1
+      at line 76, column 29
+word "he's" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 60, column 31
+word "head" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 14, column 39
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 6, column 27
+word "headed" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 55, column 7
+word "headlights" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 45, column 9
+word "hear" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 56, column 9
+word "heard" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 54, column 3
+      at line 54, column 30
+word "heart" occurs 1 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 12, column 17
+word "heir" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 6, column 12
+word "held" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 23, column 40
+word "hell" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 67, column 35
+word "help" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 61, column 35
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 25, column 32
+      at line 43, column 26
+word "helped" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 64, column 24
+word "her" occurs 5 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 14, column 23
+      at line 29, column 30
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 52, column 20
+      at line 52, column 42
+      at line 55, column 14
+word "herald" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 12, column 10
+word "here" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 38, column 8
+word "hey" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 34, column 1
+word "hid" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 5, column 41
+word "hide" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 20, column 31
+word "high" occurs 6 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 9, column 24
+      at line 11, column 25
+      at line 28, column 24
+      at line 30, column 25
+      at line 40, column 24
+      at line 42, column 29
+word "him" occurs 10 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 4, column 34
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 5, column 20
+      at line 38, column 17
+      at line 43, column 13
+      at line 54, column 9
+      at line 54, column 36
+      at line 56, column 40
+      at line 76, column 14
+      at line 78, column 19
+      at line 80, column 50
+word "his" occurs 10 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 45, column 32
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 14, column 35
+      at line 36, column 25
+      at line 36, column 39
+      at line 46, column 35
+      at line 55, column 13
+      at line 76, column 42
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 6, column 1
+      at line 6, column 28
+      at line 31, column 9
+word "hit" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 27, column 12
+      at line 43, column 9
+word "holes" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 41, column 47
+word "home" occurs 8 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 22, column 3
+      at line 22, column 14
+      at line 29, column 16
+      at line 38, column 3
+      at line 38, column 14
+      at line 45, column 18
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 2, column 15
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 35, column 53
+word "honey" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 53, column 35
+word "honky-tonks" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 22, column 21
+word "hook" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 9, column 23
+word "hound" occurs 6 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 1, column 25
+      at line 3, column 25
+      at line 17, column 25
+      at line 19, column 25
+      at line 48, column 25
+      at line 50, column 25
+word "house" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 57, column 27
+word "how" occurs 10 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 7, column 7
+      at line 9, column 7
+      at line 17, column 7
+      at line 19, column 7
+      at line 33, column 7
+      at line 35, column 7
+      at line 49, column 7
+      at line 51, column 7
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 39, column 32
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 28, column 1
+word "huh" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 73, column 1
+word "hundred" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 13, column 36
+word "i" occurs 110 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 2, column 10
+      at line 8, column 10
+      at line 19, column 10
+      at line 25, column 10
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 4, column 32
+      at line 5, column 13
+      at line 5, column 33
+      at line 6, column 13
+      at line 6, column 33
+      at line 7, column 13
+      at line 12, column 32
+      at line 13, column 13
+      at line 13, column 33
+      at line 14, column 13
+      at line 14, column 33
+      at line 15, column 13
+      at line 18, column 19
+      at line 20, column 32
+      at line 21, column 13
+      at line 21, column 33
+      at line 22, column 13
+      at line 22, column 33
+      at line 23, column 13
+      at line 25, column 38
+      at line 26, column 33
+      at line 27, column 13
+      at line 27, column 42
+      at line 28, column 24
+      at line 29, column 13
+      at line 29, column 39
+      at line 30, column 13
+      at line 32, column 38
+      at line 33, column 33
+      at line 34, column 23
+      at line 34, column 49
+      at line 35, column 32
+      at line 36, column 13
+      at line 36, column 39
+      at line 37, column 13
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 3, column 31
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 4, column 5
+      at line 8, column 16
+      at line 9, column 5
+      at line 13, column 21
+      at line 18, column 16
+      at line 19, column 5
+      at line 28, column 16
+      at line 29, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 2, column 25
+      at line 5, column 6
+      at line 12, column 10
+      at line 15, column 1
+      at line 18, column 7
+      at line 18, column 27
+      at line 21, column 5
+      at line 27, column 5
+      at line 28, column 1
+      at line 34, column 7
+      at line 36, column 5
+      at line 38, column 5
+      at line 39, column 5
+      at line 43, column 7
+      at line 46, column 5
+      at line 51, column 1
+      at line 52, column 5
+      at line 54, column 1
+      at line 54, column 28
+      at line 55, column 25
+      at line 56, column 34
+      at line 61, column 5
+      at line 61, column 12
+      at line 62, column 4
+      at line 62, column 28
+      at line 63, column 1
+      at line 68, column 5
+      at line 69, column 21
+      at line 70, column 34
+      at line 75, column 1
+      at line 75, column 25
+      at line 76, column 5
+      at line 77, column 5
+      at line 78, column 5
+      at line 79, column 12
+      at line 79, column 33
+      at line 80, column 8
+      at line 80, column 27
+      at line 81, column 35
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 2, column 7
+      at line 7, column 9
+      at line 8, column 9
+      at line 12, column 5
+      at line 12, column 43
+      at line 18, column 25
+      at line 24, column 27
+      at line 26, column 1
+      at line 29, column 15
+      at line 30, column 15
+      at line 31, column 18
+      at line 32, column 6
+      at line 33, column 19
+      at line 52, column 5
+      at line 55, column 5
+      at line 56, column 1
+      at line 62, column 1
+      at line 64, column 26
+      at line 75, column 15
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 29, column 14
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 1, column 1
+   in file "test_dir/last_sunday.txt":
+      at line 4, column 31
+      at line 5, column 1
+word "i'd" occurs 11 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 13, column 27
+      at line 14, column 26
+      at line 20, column 1
+      at line 22, column 6
+      at line 28, column 11
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 5, column 11
+      at line 6, column 15
+      at line 10, column 1
+      at line 12, column 15
+      at line 13, column 1
+      at line 16, column 1
+word "i'll" occurs 7 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 3, column 1
+      at line 9, column 1
+      at line 20, column 1
+      at line 26, column 1
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 23, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 21, column 9
+      at line 67, column 9
+word "i'm" occurs 7 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 72, column 9
+      at line 80, column 35
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 19, column 1
+      at line 20, column 1
+      at line 65, column 1
+      at line 66, column 1
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 44, column 1
+word "i've" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 51, column 13
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 27, column 1
+word "if" occurs 10 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 53, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 60, column 5
+      at line 69, column 42
+      at line 80, column 5
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 29, column 12
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 8, column 1
+      at line 13, column 1
+      at line 18, column 1
+      at line 23, column 1
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 29, column 1
+word "ii" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 18, column 1
+word "in" occurs 28 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 1, column 17
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 1, column 22
+      at line 2, column 21
+      at line 21, column 1
+      at line 23, column 31
+      at line 27, column 18
+      at line 30, column 5
+      at line 37, column 1
+      at line 39, column 31
+      at line 43, column 24
+      at line 46, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 26, column 25
+      at line 48, column 24
+      at line 71, column 16
+      at line 71, column 40
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 2, column 28
+      at line 10, column 27
+      at line 10, column 41
+      at line 19, column 26
+      at line 24, column 37
+      at line 33, column 31
+      at line 35, column 32
+      at line 41, column 26
+      at line 52, column 17
+      at line 65, column 26
+      at line 72, column 1
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 14, column 33
+      at line 21, column 23
+word "increase" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 3, column 34
+word "inny" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 4, column 16
+word "into" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 47, column 37
+word "is" occurs 12 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 2, column 7
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 10, column 31
+      at line 39, column 22
+      at line 59, column 31
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 21, column 38
+      at line 67, column 38
+      at line 71, column 6
+      at line 73, column 11
+      at line 77, column 16
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 4, column 6
+      at line 29, column 6
+      at line 49, column 6
+word "it" occurs 26 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 18, column 6
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 13, column 7
+      at line 14, column 17
+      at line 30, column 36
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 11, column 5
+      at line 12, column 1
+      at line 26, column 7
+      at line 60, column 27
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 10, column 11
+      at line 12, column 24
+      at line 16, column 9
+      at line 17, column 5
+      at line 29, column 24
+      at line 37, column 23
+      at line 42, column 15
+      at line 42, column 30
+      at line 49, column 12
+      at line 58, column 17
+      at line 58, column 23
+      at line 62, column 7
+      at line 63, column 5
+      at line 76, column 12
+      at line 77, column 19
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 9, column 12
+      at line 14, column 11
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 33, column 42
+word "it's" occurs 8 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 17, column 28
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 13, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 64, column 5
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 18, column 12
+      at line 64, column 13
+      at line 76, column 19
+      at line 78, column 7
+      at line 80, column 1
+word "jedną" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 6, column 1
+      at line 8, column 11
+word "jej" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 16, column 16
+word "jeszcze" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 19, column 10
+      at line 25, column 10
+word "jeweler's" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 11, column 32
+word "joke" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 10, column 42
+word "jones" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 24, column 22
+      at line 40, column 22
+word "just" occurs 12 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 10, column 16
+      at line 12, column 16
+      at line 29, column 16
+      at line 31, column 16
+      at line 41, column 16
+      at line 43, column 16
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 1
+      at line 27, column 7
+      at line 67, column 19
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 28, column 22
+      at line 44, column 28
+      at line 54, column 21
+word "keen" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 19, column 34
+word "keep" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 13
+word "kentucky" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 2, column 14
+word "kicked" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 53, column 4
+word "kicking" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 48, column 1
+word "kids" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 23, column 18
+      at line 39, column 18
+word "kill" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 23, column 5
+      at line 69, column 4
+word "kind" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 48, column 21
+word "kit" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 43, column 48
+word "knew" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 34, column 9
+      at line 36, column 7
+      at line 61, column 7
+      at line 63, column 3
+word "knife" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 45, column 19
+word "know" occurs 10 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 2, column 5
+      at line 8, column 5
+      at line 19, column 5
+      at line 25, column 5
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 34, column 18
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 42, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 68, column 7
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 18, column 7
+      at line 64, column 8
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 29, column 16
+word "któż" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 20, column 22
+      at line 26, column 22
+word "la-la" occurs 8 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 7, column 1
+      at line 9, column 1
+      at line 17, column 1
+      at line 19, column 1
+      at line 33, column 1
+      at line 35, column 1
+      at line 49, column 1
+      at line 51, column 1
+word "lake" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 32, column 17
+word "lat" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 7, column 19
+word "laugh" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 14, column 16
+      at line 54, column 13
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 57, column 45
+word "laughing" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 56, column 24
+word "laughs" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 11, column 21
+word "least" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 13, column 28
+word "leave" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 3, column 15
+word "left" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 2, column 10
+      at line 7, column 15
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 2, column 9
+      at line 26, column 3
+      at line 46, column 19
+word "leg" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 28, column 45
+word "lend" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 28, column 27
+      at line 44, column 25
+word "lepszy" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 4, column 33
+word "let" occurs 2 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 2, column 7
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 9, column 8
+word "lets" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 28, column 9
+      at line 44, column 7
+word "lie" occurs 6 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 10, column 23
+      at line 12, column 23
+      at line 29, column 23
+      at line 31, column 23
+      at line 41, column 23
+      at line 43, column 23
+word "lies" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 9, column 33
+      at line 24, column 40
+word "life" occurs 22 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 1, column 20
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 6, column 19
+      at line 7, column 17
+      at line 8, column 19
+      at line 9, column 17
+      at line 16, column 19
+      at line 17, column 17
+      at line 18, column 19
+      at line 19, column 17
+      at line 32, column 24
+      at line 33, column 17
+      at line 34, column 24
+      at line 35, column 17
+      at line 48, column 25
+      at line 49, column 17
+      at line 50, column 25
+      at line 51, column 17
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 3, column 18
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 12, column 34
+      at line 15, column 12
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 4, column 1
+      at line 49, column 1
+word "light's" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 8, column 13
+word "like" occurs 6 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 16, column 9
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 3, column 33
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 53, column 11
+      at line 53, column 34
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 34, column 1
+      at line 44, column 33
+word "line" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 3, column 41
+word "listen" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 14, column 1
+word "little" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 28, column 31
+      at line 33, column 5
+      at line 43, column 12
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 8, column 16
+      at line 13, column 14
+word "livery" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 22, column 19
+word "long" occurs 2 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 11, column 25
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 7, column 41
+word "looked" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 38, column 7
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 48, column 14
+word "lookin'" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 56, column 16
+word "lot" occurs 3 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 26, column 7
+      at line 33, column 7
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 11, column 14
+word "lots" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 11, column 36
+word "love" occurs 40 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 1, column 1
+      at line 1, column 7
+      at line 2, column 12
+      at line 4, column 12
+      at line 5, column 7
+      at line 7, column 1
+      at line 7, column 7
+      at line 8, column 12
+      at line 10, column 12
+      at line 11, column 7
+      at line 13, column 12
+      at line 15, column 12
+      at line 18, column 1
+      at line 18, column 7
+      at line 19, column 12
+      at line 21, column 12
+      at line 22, column 7
+      at line 24, column 1
+      at line 24, column 7
+      at line 25, column 12
+      at line 27, column 12
+      at line 28, column 7
+      at line 29, column 7
+      at line 30, column 11
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 1, column 1
+      at line 1, column 17
+      at line 4, column 7
+      at line 6, column 1
+      at line 6, column 17
+      at line 8, column 18
+      at line 11, column 1
+      at line 11, column 17
+      at line 16, column 1
+      at line 16, column 17
+      at line 18, column 18
+      at line 21, column 1
+      at line 21, column 17
+      at line 26, column 1
+      at line 26, column 17
+      at line 28, column 18
+word "loving" occurs 2 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 9, column 6
+      at line 10, column 10
+word "lunchbox" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 10, column 32
+      at line 25, column 13
+      at line 26, column 24
+      at line 33, column 41
+word "lusty" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 25, column 31
+word "lyin'" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 23, column 14
+word "ma" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 3, column 29
+word "made" occurs 3 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 3, column 10
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 21, column 7
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 32, column 21
+word "main" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 55, column 32
+word "mak'st" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 14, column 20
+word "make" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 60, column 22
+      at line 64, column 34
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 30, column 25
+word "making" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 9, column 1
+word "mam" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 6, column 7
+word "man" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 23, column 15
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 9, column 37
+word "man's" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 60, column 10
+word "mangy" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 31, column 16
+word "market" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 1, column 29
+      at line 27, column 25
+      at line 43, column 31
+word "me" occurs 57 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 1, column 12
+      at line 4, column 17
+      at line 5, column 12
+      at line 7, column 12
+      at line 10, column 17
+      at line 11, column 12
+      at line 18, column 12
+      at line 21, column 17
+      at line 22, column 12
+      at line 24, column 12
+      at line 27, column 17
+      at line 28, column 12
+      at line 29, column 12
+      at line 30, column 16
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 4, column 10
+      at line 9, column 18
+      at line 12, column 10
+      at line 20, column 10
+      at line 25, column 16
+      at line 32, column 16
+      at line 35, column 10
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 1, column 6
+      at line 1, column 22
+      at line 2, column 11
+      at line 6, column 6
+      at line 6, column 22
+      at line 11, column 6
+      at line 11, column 22
+      at line 12, column 6
+      at line 16, column 6
+      at line 16, column 22
+      at line 21, column 6
+      at line 21, column 22
+      at line 22, column 6
+      at line 26, column 6
+      at line 26, column 22
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 3, column 36
+      at line 7, column 39
+      at line 23, column 28
+      at line 31, column 37
+      at line 56, column 27
+      at line 68, column 21
+      at line 69, column 9
+      at line 70, column 23
+      at line 76, column 39
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 25
+      at line 7, column 25
+      at line 13, column 10
+      at line 17, column 22
+      at line 18, column 17
+      at line 30, column 21
+      at line 31, column 24
+      at line 32, column 12
+      at line 53, column 47
+      at line 63, column 20
+      at line 64, column 18
+   in file "test_dir/last_sunday.txt":
+      at line 5, column 32
+word "mean" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 18, column 37
+word "meanest" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 6, column 9
+word "meant" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 11, column 20
+word "memory" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 6, column 32
+word "men" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 51, column 33
+word "merrily" occurs 8 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 3, column 1
+      at line 3, column 9
+      at line 3, column 18
+      at line 3, column 27
+      at line 48, column 1
+      at line 48, column 9
+      at line 48, column 18
+      at line 48, column 27
+word "mi" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 8, column 5
+word "miała" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 19, column 37
+      at line 25, column 37
+word "mid-july" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 26, column 28
+word "might" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 75, column 5
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 4, column 28
+      at line 6, column 17
+word "mine" occurs 9 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 6, column 28
+      at line 14, column 28
+      at line 22, column 28
+      at line 33, column 28
+      at line 45, column 28
+      at line 53, column 24
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 22, column 17
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 55, column 34
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 29, column 44
+word "miss" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 28, column 17
+word "mistake" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 34, column 14
+word "mnie" occurs 3 times:
+   in file "test_dir/last_sunday.txt":
+      at line 4, column 44
+      at line 16, column 24
+      at line 17, column 24
+word "mną" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 20, column 9
+      at line 26, column 9
+word "mo-chine" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 74, column 34
+word "mobile" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 35, column 46
+word "model" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 77, column 10
+word "moje" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 22, column 1
+      at line 28, column 1
+word "molly" occurs 8 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 2, column 1
+      at line 3, column 17
+      at line 4, column 5
+      at line 13, column 18
+      at line 24, column 16
+      at line 29, column 1
+      at line 40, column 16
+      at line 44, column 1
+word "money" occurs 11 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 4, column 13
+      at line 12, column 13
+      at line 17, column 1
+      at line 20, column 13
+      at line 25, column 19
+      at line 26, column 14
+      at line 28, column 5
+      at line 32, column 19
+      at line 33, column 14
+      at line 34, column 30
+      at line 35, column 13
+word "moon" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 21, column 25
+word "more" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 28, column 10
+word "most" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 9, column 28
+word "mother'd" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 35, column 33
+word "motor" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 40, column 9
+word "mouse" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 13, column 21
+word "mouth" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 71, column 20
+      at line 73, column 25
+word "może" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 6, column 19
+word "much" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 3, column 21
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 28, column 5
+word "mud" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 29, column 33
+      at line 48, column 31
+word "mule" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 53, column 18
+word "must" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 10, column 10
+word "my" occurs 32 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 10, column 27
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 3, column 15
+      at line 7, column 5
+      at line 8, column 5
+      at line 17, column 5
+      at line 18, column 5
+      at line 27, column 5
+      at line 28, column 5
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 2, column 1
+      at line 12, column 25
+      at line 19, column 1
+      at line 19, column 22
+      at line 20, column 36
+      at line 27, column 25
+      at line 34, column 29
+      at line 35, column 30
+      at line 38, column 25
+      at line 39, column 14
+      at line 44, column 26
+      at line 45, column 48
+      at line 75, column 38
+      at line 76, column 18
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 6, column 24
+      at line 10, column 44
+      at line 25, column 6
+      at line 25, column 42
+      at line 33, column 34
+      at line 35, column 35
+      at line 36, column 16
+      at line 51, column 17
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 30, column 11
+      at line 30, column 30
+word "myself" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 28, column 29
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 8, column 19
+      at line 27, column 23
+word "na" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 14, column 1
+      at line 17, column 21
+word "name" occurs 6 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 23, column 42
+      at line 39, column 17
+      at line 62, column 19
+      at line 64, column 14
+      at line 80, column 45
+      at line 81, column 53
+word "named" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 7, column 33
+      at line 15, column 38
+      at line 31, column 31
+      at line 72, column 39
+word "need" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 34, column 25
+word "negatory" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 74, column 5
+word "never" occurs 10 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 5, column 17
+      at line 13, column 17
+      at line 21, column 17
+      at line 32, column 17
+      at line 44, column 17
+      at line 52, column 17
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 2, column 1
+      at line 14, column 10
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 27, column 6
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 4, column 34
+word "new" occurs 2 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 14, column 10
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 32, column 17
+word "next" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 24, column 13
+      at line 31, column 9
+word "nie" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 2, column 7
+      at line 16, column 6
+word "niech" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 10, column 9
+word "niedziel" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 19, column 28
+      at line 25, column 28
+word "niedziela" occurs 4 times:
+   in file "test_dir/last_sunday.txt":
+      at line 11, column 13
+      at line 15, column 13
+      at line 21, column 13
+      at line 27, column 13
+word "niedzielę" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 8, column 17
+      at line 9, column 10
+word "niggarding" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 14, column 36
+word "night" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 37, column 43
+word "no" occurs 7 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 19, column 37
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 6, column 15
+      at line 14, column 15
+      at line 22, column 15
+      at line 33, column 15
+      at line 45, column 15
+      at line 53, column 11
+word "nothing" occurs 6 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 1, column 11
+      at line 3, column 11
+      at line 17, column 11
+      at line 19, column 11
+      at line 48, column 11
+      at line 50, column 11
+word "noticed" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 38, column 20
+      at line 50, column 22
+word "now" occurs 17 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 4, column 1
+      at line 12, column 1
+      at line 20, column 1
+      at line 25, column 7
+      at line 32, column 7
+      at line 35, column 1
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 5, column 1
+      at line 40, column 1
+      at line 67, column 11
+      at line 69, column 12
+      at line 78, column 24
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 11, column 1
+      at line 36, column 1
+      at line 36, column 12
+      at line 45, column 1
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 11, column 15
+      at line 22, column 38
+word "nuts" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 34, column 6
+word "o'" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 10, column 15
+word "ob-la-da" occurs 9 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 6, column 10
+      at line 8, column 10
+      at line 16, column 10
+      at line 18, column 10
+      at line 32, column 15
+      at line 34, column 15
+      at line 48, column 16
+      at line 50, column 16
+      at line 54, column 15
+word "ob-la-di" occurs 9 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 6, column 1
+      at line 8, column 1
+      at line 16, column 1
+      at line 18, column 1
+      at line 32, column 6
+      at line 34, column 6
+      at line 48, column 7
+      at line 50, column 7
+      at line 54, column 6
+word "od" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 7, column 10
+word "ode" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 4, column 40
+word "of" occurs 33 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 26, column 11
+      at line 33, column 11
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 21, column 13
+      at line 23, column 15
+      at line 24, column 1
+      at line 37, column 13
+      at line 39, column 15
+      at line 40, column 1
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 6, column 25
+      at line 14, column 25
+      at line 22, column 25
+      at line 33, column 25
+      at line 45, column 25
+      at line 53, column 21
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 24, column 14
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 42
+      at line 11, column 18
+      at line 11, column 41
+      at line 29, column 30
+      at line 45, column 45
+      at line 67, column 40
+      at line 77, column 40
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 9, column 25
+      at line 10, column 18
+      at line 26, column 38
+      at line 32, column 38
+      at line 43, column 23
+      at line 47, column 45
+      at line 48, column 26
+      at line 74, column 26
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 23, column 25
+      at line 25, column 24
+      at line 29, column 41
+word "off" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 45, column 33
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 9, column 15
+word "oh" occurs 3 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 30, column 7
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 28, column 1
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 39, column 1
+word "old" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 11
+      at line 29, column 7
+      at line 37, column 34
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 30, column 33
+      at line 32, column 40
+word "on" occurs 27 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 6, column 29
+      at line 7, column 27
+      at line 8, column 29
+      at line 9, column 27
+      at line 16, column 29
+      at line 17, column 27
+      at line 18, column 29
+      at line 19, column 27
+      at line 32, column 34
+      at line 33, column 27
+      at line 34, column 34
+      at line 35, column 27
+      at line 48, column 35
+      at line 49, column 27
+      at line 50, column 35
+      at line 51, column 27
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 29, column 18
+      at line 36, column 22
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 3, column 29
+      at line 4, column 43
+      at line 46, column 12
+      at line 46, column 32
+      at line 47, column 58
+      at line 55, column 24
+      at line 72, column 36
+      at line 74, column 14
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 22, column 35
+word "one" occurs 11 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 67, column 31
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 7, column 28
+      at line 8, column 1
+      at line 16, column 12
+      at line 21, column 28
+      at line 28, column 27
+      at line 37, column 39
+      at line 46, column 28
+      at line 50, column 47
+      at line 62, column 10
+      at line 67, column 28
+word "only" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 21, column 23
+      at line 50, column 38
+      at line 67, column 23
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 12, column 5
+word "opened" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 53, column 9
+word "or" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 63, column 32
+      at line 81, column 6
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 15, column 17
+word "ornament" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 11, column 37
+word "ostatni" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 18, column 1
+word "ostatnia" occurs 4 times:
+   in file "test_dir/last_sunday.txt":
+      at line 11, column 4
+      at line 15, column 4
+      at line 21, column 4
+      at line 27, column 4
+word "ostatnią" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 6, column 24
+      at line 9, column 1
+word "ought" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 70, column 8
+word "out" occurs 7 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 10, column 14
+      at line 29, column 27
+      at line 35, column 28
+      at line 40, column 22
+      at line 42, column 18
+      at line 47, column 20
+      at line 51, column 32
+word "outro" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 69, column 2
+word "over" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 29, column 31
+word "own" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 34, column 32
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 7, column 30
+      at line 13, column 14
+      at line 26, column 22
+word "pa" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 76, column 21
+word "part" occurs 1 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 14, column 16
+word "pay" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 10, column 23
+word "picked" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 76, column 5
+word "picture" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 35, column 17
+word "piece" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 45, column 39
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 16, column 16
+      at line 28, column 38
+      at line 62, column 14
+word "pierwszą" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 7, column 1
+word "pity" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 15, column 1
+word "place" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 1, column 36
+      at line 27, column 32
+      at line 43, column 38
+word "plan" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 8, column 28
+      at line 36, column 19
+word "please" occurs 5 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 4, column 4
+      at line 10, column 4
+      at line 21, column 4
+      at line 27, column 4
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 9, column 1
+word "point" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 77, column 34
+word "pora" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 2, column 11
+word "potem" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 10, column 3
+word "pounds" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 59, column 51
+word "praise" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 27, column 42
+      at line 28, column 15
+word "pretty" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 29, column 34
+      at line 45, column 36
+word "proud" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 22, column 13
+word "proving" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 31, column 1
+word "prośbę" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 6, column 11
+word "przyszedł" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 4, column 6
+word "psycho-billy" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 72, column 8
+word "pulled" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 55, column 27
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 47, column 13
+word "pump" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 30, column 31
+word "punched" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 24, column 29
+word "put" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 37, column 19
+      at line 41, column 22
+      at line 49, column 8
+word "putting" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 28
+word "quick" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 18, column 17
+word "quite" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 10, column 34
+word "rabbit" occurs 6 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 5, column 32
+      at line 13, column 32
+      at line 21, column 32
+      at line 32, column 32
+      at line 44, column 32
+      at line 52, column 32
+word "ran" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 38, column 34
+word "raz" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 18, column 9
+word "really" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 52, column 7
+word "red" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 13, column 35
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 70, column 11
+      at line 74, column 51
+word "remember" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 52, column 20
+word "retired" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 12, column 45
+word "ride" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 19, column 14
+      at line 65, column 14
+word "right" occurs 7 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 43, column 22
+      at line 46, column 22
+      at line 68, column 41
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 36, column 33
+      at line 46, column 39
+      at line 55, column 18
+      at line 75, column 22
+word "ring" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 12, column 28
+      at line 12, column 41
+word "riper" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 5, column 12
+word "river" occurs 2 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 17, column 17
+      at line 18, column 8
+word "roam" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 20, column 5
+word "roar" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 24, column 17
+word "rock" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 33, column 20
+word "roll" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 5, column 35
+word "rose" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 4, column 23
+word "rough" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 59, column 34
+word "row" occurs 30 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 1, column 1
+      at line 1, column 6
+      at line 1, column 11
+      at line 6, column 1
+      at line 6, column 6
+      at line 6, column 11
+      at line 11, column 1
+      at line 11, column 6
+      at line 11, column 11
+      at line 16, column 1
+      at line 16, column 6
+      at line 16, column 11
+      at line 21, column 1
+      at line 21, column 6
+      at line 21, column 11
+      at line 26, column 1
+      at line 26, column 6
+      at line 26, column 11
+      at line 31, column 1
+      at line 31, column 6
+      at line 31, column 11
+      at line 36, column 1
+      at line 36, column 6
+      at line 36, column 11
+      at line 41, column 1
+      at line 41, column 6
+      at line 41, column 11
+      at line 46, column 1
+      at line 46, column 6
+      at line 46, column 11
+word "rowing" occurs 2 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 38, column 1
+      at line 38, column 17
+word "rowing's" occurs 2 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 28, column 1
+      at line 28, column 18
+word "rozejdziemy" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 13, column 13
+word "rozstaniemy" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 12, column 13
+word "run" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 5, column 33
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 37, column 15
+word "running" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 23, column 23
+      at line 39, column 23
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 44, column 20
+word "ryder" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 70, column 15
+      at line 74, column 55
+word "said" occurs 11 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 9, column 11
+      at line 11, column 12
+      at line 28, column 11
+      at line 30, column 12
+      at line 40, column 11
+      at line 42, column 16
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 39, column 7
+      at line 59, column 8
+      at line 62, column 30
+      at line 67, column 4
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 53, column 29
+word "saloon" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 29, column 11
+word "sat" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 31, column 1
+word "saw" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 56, column 36
+word "say" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 75, column 11
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 26, column 4
+word "says" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 3, column 9
+      at line 4, column 11
+word "scar" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 36, column 17
+word "search" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 22, column 10
+word "see" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 52, column 13
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 13, column 8
+      at line 23, column 8
+      at line 37, column 1
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 33, column 5
+word "seems" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 12, column 4
+word "self" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 10, column 5
+      at line 10, column 32
+word "self-substantial" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 8, column 32
+word "several" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 29, column 36
+word "shall" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 20, column 20
+      at line 30, column 1
+word "shame" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 20, column 39
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 27, column 20
+word "she" occurs 5 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 4, column 24
+      at line 14, column 27
+      at line 30, column 20
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 52, column 34
+      at line 53, column 5
+word "she's" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 46, column 20
+word "shiver" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 19, column 17
+word "shocks" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 34, column 36
+word "shore" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 22, column 15
+word "should" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 9, column 6
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 5, column 18
+word "sight" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 45, column 38
+word "sing" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 14, column 41
+      at line 14, column 47
+word "singer" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 2, column 14
+      at line 46, column 28
+word "sings" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 30, column 30
+word "sixty" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 59, column 45
+word "się" occurs 6 times:
+   in file "test_dir/last_sunday.txt":
+      at line 3, column 20
+      at line 10, column 20
+      at line 12, column 9
+      at line 13, column 9
+      at line 24, column 11
+      at line 30, column 11
+word "skończyło" occurs 3 times:
+   in file "test_dir/last_sunday.txt":
+      at line 3, column 10
+      at line 24, column 1
+      at line 30, column 1
+word "skradł" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 5, column 15
+word "small" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 23, column 28
+word "smile" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 56, column 44
+word "snake" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 34, column 19
+word "sneak" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 10, column 5
+word "snuck" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 35, column 22
+word "sny" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 22, column 6
+      at line 28, column 6
+word "so" occurs 11 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 4, column 1
+      at line 10, column 1
+      at line 21, column 1
+      at line 27, column 1
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 4, column 16
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 62, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 24, column 1
+      at line 42, column 1
+      at line 42, column 22
+      at line 54, column 1
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 22, column 26
+word "some" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 53, column 17
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 13, column 1
+      at line 14, column 5
+word "somebody" occurs 1 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 14, column 1
+word "someone" occurs 3 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 13, column 1
+      at line 15, column 1
+      at line 16, column 1
+word "something" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 38, column 33
+word "sometimes" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 6, column 5
+word "son" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 59, column 15
+      at line 76, column 46
+      at line 80, column 22
+word "son-of-a-" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 72, column 17
+word "song" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 44, column 40
+word "spin" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 53, column 56
+word "spit" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 71, column 35
+word "spojrzyj" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 17, column 1
+word "spring" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 12, column 30
+word "squeak" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 14, column 14
+word "staff" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 58, column 41
+word "stand" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 33, column 7
+word "stars" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 21, column 34
+word "stays" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 29, column 7
+      at line 45, column 9
+word "still" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 30, column 24
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 81, column 37
+word "stood" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 56, column 4
+word "stop" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 28, column 15
+word "stores" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 11, column 42
+word "stream" occurs 3 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 2, column 17
+      at line 42, column 17
+      at line 47, column 17
+word "street" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 29, column 23
+      at line 47, column 46
+word "strong" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 64, column 43
+word "strung" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 29, column 17
+word "stud" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 30, column 27
+word "stuff" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 35, column 13
+word "style" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 19, column 29
+      at line 65, column 29
+word "submarine" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 44, column 7
+word "succession" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 31, column 23
+word "sue" occurs 5 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 7, column 43
+      at line 15, column 45
+      at line 31, column 41
+      at line 72, column 49
+      at line 81, column 30
+word "sum" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 30, column 7
+word "sunken" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 26, column 31
+word "surprise" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 44, column 29
+word "sweet" occurs 5 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 22, column 8
+      at line 38, column 8
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 1, column 25
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 34, column 36
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 10, column 26
+word "switch" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 47, column 28
+word "szczęście" occurs 3 times:
+   in file "test_dir/last_sunday.txt":
+      at line 5, column 22
+      at line 23, column 1
+      at line 29, column 1
+word "szukać" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 2, column 16
+word "table" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 30, column 12
+word "tags" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 54, column 37
+word "tail-fin" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 50, column 51
+word "tak" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 23, column 11
+      at line 29, column 11
+word "take" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 54, column 1
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 12, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 53, column 42
+word "takes" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 4, column 28
+      at line 11, column 9
+      at line 13, column 1
+word "teeth" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 46, column 39
+word "tell" occurs 3 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 22, column 1
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 15, column 3
+      at line 51, column 3
+word "tender" occurs 8 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 1, column 9
+      at line 6, column 9
+      at line 11, column 9
+      at line 16, column 9
+      at line 21, column 9
+      at line 26, column 9
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 6, column 5
+      at line 14, column 6
+word "teraz" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 2, column 1
+word "thank" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 56, column 2
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 70, column 17
+word "that" occurs 33 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 10, column 7
+      at line 12, column 7
+      at line 29, column 7
+      at line 31, column 7
+      at line 41, column 7
+      at line 43, column 7
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 13, column 16
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 6, column 23
+      at line 10, column 26
+      at line 22, column 1
+      at line 23, column 10
+      at line 23, column 31
+      at line 31, column 26
+      at line 34, column 14
+      at line 35, column 25
+      at line 36, column 12
+      at line 62, column 14
+      at line 64, column 19
+      at line 72, column 34
+      at line 81, column 48
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 7, column 32
+      at line 9, column 1
+      at line 26, column 8
+      at line 38, column 28
+      at line 42, column 25
+      at line 44, column 8
+      at line 50, column 30
+      at line 51, column 7
+      at line 52, column 29
+      at line 76, column 32
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 29, column 1
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 4, column 1
+      at line 11, column 6
+word "that's" occurs 35 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 4, column 20
+      at line 5, column 1
+      at line 5, column 21
+      at line 6, column 1
+      at line 6, column 21
+      at line 7, column 1
+      at line 12, column 20
+      at line 13, column 1
+      at line 13, column 21
+      at line 14, column 1
+      at line 14, column 21
+      at line 15, column 1
+      at line 20, column 20
+      at line 21, column 1
+      at line 21, column 21
+      at line 22, column 1
+      at line 22, column 21
+      at line 23, column 1
+      at line 25, column 26
+      at line 26, column 21
+      at line 27, column 30
+      at line 28, column 12
+      at line 29, column 1
+      at line 29, column 27
+      at line 30, column 1
+      at line 32, column 26
+      at line 33, column 21
+      at line 34, column 37
+      at line 35, column 20
+      at line 36, column 1
+      at line 36, column 27
+      at line 37, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 38, column 5
+      at line 50, column 7
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 34, column 1
+word "the" occurs 91 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 1, column 1
+      at line 2, column 26
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 1, column 25
+      at line 2, column 10
+      at line 4, column 41
+      at line 11, column 28
+      at line 13, column 35
+      at line 23, column 34
+      at line 27, column 21
+      at line 28, column 14
+      at line 30, column 8
+      at line 30, column 44
+      at line 39, column 34
+      at line 43, column 27
+      at line 44, column 12
+      at line 46, column 8
+      at line 46, column 40
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 2, column 12
+      at line 4, column 12
+      at line 18, column 12
+      at line 20, column 12
+      at line 49, column 12
+      at line 51, column 12
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 23, column 27
+      at line 24, column 6
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 6, column 5
+      at line 21, column 21
+      at line 22, column 17
+      at line 31, column 5
+      at line 43, column 36
+      at line 47, column 24
+      at line 47, column 42
+      at line 48, column 27
+      at line 48, column 39
+      at line 48, column 53
+      at line 64, column 10
+      at line 68, column 37
+      at line 71, column 5
+      at line 71, column 31
+      at line 72, column 13
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 1
+      at line 9, column 16
+      at line 12, column 34
+      at line 21, column 19
+      at line 24, column 4
+      at line 30, column 1
+      at line 31, column 5
+      at line 32, column 41
+      at line 33, column 1
+      at line 35, column 5
+      at line 39, column 1
+      at line 40, column 5
+      at line 41, column 29
+      at line 41, column 43
+      at line 45, column 5
+      at line 46, column 15
+      at line 46, column 35
+      at line 47, column 24
+      at line 48, column 1
+      at line 53, column 16
+      at line 54, column 33
+      at line 57, column 17
+      at line 58, column 31
+      at line 59, column 27
+      at line 67, column 19
+      at line 71, column 9
+      at line 72, column 4
+      at line 73, column 14
+      at line 74, column 17
+      at line 75, column 34
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 2, column 13
+      at line 7, column 13
+      at line 9, column 19
+      at line 12, column 13
+      at line 17, column 13
+      at line 18, column 4
+      at line 21, column 15
+      at line 22, column 11
+      at line 27, column 7
+      at line 32, column 13
+      at line 33, column 25
+      at line 37, column 5
+      at line 42, column 13
+      at line 47, column 13
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 5, column 8
+      at line 11, column 19
+      at line 12, column 20
+      at line 15, column 6
+      at line 16, column 8
+      at line 16, column 28
+      at line 25, column 11
+word "thee" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 16, column 42
+word "their" occurs 8 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 7, column 11
+      at line 9, column 11
+      at line 17, column 11
+      at line 19, column 11
+      at line 33, column 11
+      at line 35, column 11
+      at line 49, column 11
+      at line 51, column 11
+word "them" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 5, column 21
+      at line 47, column 48
+word "then" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 54, column 23
+      at line 78, column 32
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 32, column 1
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 24, column 1
+word "there" occurs 10 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 13, column 10
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 30, column 1
+      at line 56, column 10
+      at line 61, column 26
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 10, column 21
+      at line 21, column 32
+      at line 57, column 8
+      at line 67, column 32
+      at line 74, column 44
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 38, column 24
+word "thereby" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 4, column 6
+word "they" occurs 12 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 21, column 22
+      at line 37, column 22
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 9, column 6
+      at line 11, column 7
+      at line 28, column 6
+      at line 30, column 7
+      at line 40, column 6
+      at line 42, column 11
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 16
+      at line 45, column 21
+      at line 57, column 33
+      at line 59, column 10
+word "thief" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 27, column 32
+word "thine" occurs 4 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 7, column 24
+      at line 13, column 8
+      at line 26, column 16
+      at line 31, column 34
+word "thing" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 6, column 17
+word "things" occurs 2 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 1, column 10
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 33, column 12
+word "think" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 78, column 7
+      at line 80, column 29
+word "this" occurs 8 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 4, column 16
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 4, column 6
+      at line 59, column 20
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 71, column 1
+      at line 73, column 6
+      at line 74, column 29
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 15, column 25
+      at line 32, column 1
+word "thou" occurs 5 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 7, column 5
+      at line 11, column 1
+      at line 29, column 4
+      at line 32, column 31
+      at line 33, column 29
+word "thought" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 10, column 18
+      at line 28, column 3
+word "three" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 2, column 31
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 47, column 39
+word "threw" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 75, column 27
+word "thriftless" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 27, column 31
+word "thrill" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 9, column 23
+word "throat" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 27, column 28
+word "through" occurs 7 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 23, column 15
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 12, column 39
+      at line 47, column 16
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 18, column 32
+      at line 49, column 40
+      at line 59, column 19
+      at line 64, column 33
+word "thy" occurs 12 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 8, column 9
+      at line 10, column 1
+      at line 10, column 10
+      at line 10, column 22
+      at line 13, column 30
+      at line 20, column 34
+      at line 21, column 26
+      at line 22, column 1
+      at line 24, column 29
+      at line 25, column 27
+      at line 28, column 31
+      at line 33, column 9
+word "time" occurs 14 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 2, column 16
+      at line 4, column 16
+      at line 18, column 16
+      at line 20, column 16
+      at line 49, column 16
+      at line 51, column 16
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 24, column 17
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 79, column 7
+      at line 79, column 28
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 12, column 38
+      at line 16, column 27
+      at line 51, column 12
+      at line 62, column 25
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 5, column 28
+word "title" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 59, column 31
+word "to" occurs 48 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 13, column 9
+      at line 15, column 9
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 3, column 14
+      at line 11, column 25
+      at line 13, column 15
+      at line 14, column 20
+      at line 14, column 38
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 12, column 9
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 3, column 26
+      at line 12, column 16
+      at line 20, column 20
+      at line 20, column 28
+      at line 21, column 18
+      at line 40, column 18
+      at line 44, column 23
+      at line 61, column 32
+      at line 63, column 19
+      at line 64, column 31
+      at line 69, column 1
+      at line 70, column 14
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 3, column 10
+      at line 19, column 11
+      at line 20, column 11
+      at line 36, column 9
+      at line 37, column 16
+      at line 40, column 26
+      at line 41, column 19
+      at line 54, column 26
+      at line 58, column 9
+      at line 65, column 11
+      at line 66, column 11
+      at line 75, column 31
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 14, column 8
+      at line 19, column 14
+      at line 22, column 8
+      at line 24, column 14
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 7, column 21
+      at line 10, column 19
+      at line 12, column 17
+      at line 16, column 1
+      at line 26, column 1
+      at line 32, column 11
+   in file "test_dir/last_sunday.txt":
+      at line 11, column 1
+      at line 15, column 1
+      at line 20, column 27
+      at line 21, column 1
+      at line 26, column 27
+      at line 27, column 1
+word "tobą" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 5, column 10
+word "together" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 37, column 30
+      at line 49, column 15
+word "too" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 48, column 35
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 10, column 37
+word "took" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 58, column 26
+word "totter'd" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 23, column 11
+word "tough" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 60, column 45
+      at line 63, column 26
+word "tougher" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 51, column 25
+word "town" occurs 6 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 20, column 15
+      at line 20, column 23
+      at line 27, column 16
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 18, column 45
+      at line 54, column 16
+      at line 64, column 46
+word "transmission" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 32, column 17
+      at line 39, column 5
+word "treasure" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 25, column 15
+word "trenches" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 21, column 14
+word "tried" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 37, column 10
+      at line 41, column 13
+word "trolley" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 11, column 17
+word "true" occurs 8 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 3, column 16
+      at line 9, column 16
+      at line 20, column 16
+      at line 26, column 16
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 17, column 33
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 6, column 25
+      at line 16, column 25
+      at line 26, column 25
+word "trunk" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 31, column 43
+word "try" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 79, column 14
+word "turned" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 40, column 15
+word "twenty" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 12, column 8
+word "two" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 46, column 8
+word "tych" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 19, column 23
+      at line 25, column 23
+word "type" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 58, column 12
+word "tę" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 8, column 8
+word "uh" occurs 3 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 56, column 13
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 70, column 1
+      at line 77, column 1
+word "until" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 37, column 1
+word "up" occurs 11 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 18, column 14
+      at line 18, column 34
+      at line 45, column 9
+      at line 75, column 18
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 36, column 6
+      at line 54, column 13
+      at line 57, column 5
+      at line 58, column 20
+      at line 75, column 28
+      at line 76, column 15
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 33, column 13
+word "upragnione" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 23, column 15
+      at line 29, column 15
+word "use" occurs 2 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 18, column 27
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 28, column 44
+word "verse" occurs 15 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 8, column 2
+      at line 27, column 2
+      at line 39, column 2
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 1, column 2
+      at line 9, column 2
+      at line 17, column 2
+      at line 25, column 2
+      at line 33, column 2
+      at line 42, column 2
+      at line 50, column 2
+      at line 58, column 2
+      at line 66, column 2
+      at line 74, column 2
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 1, column 2
+      at line 23, column 2
+word "very" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 24, column 8
+word "view" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 77, column 43
+word "vow" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 21, column 14
+word "waiting" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 13, column 24
+word "wali" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 10, column 15
+word "walked" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 51, column 25
+word "wall" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 47, column 28
+word "wanna" occurs 1 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 27, column 15
+word "want" occurs 33 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 4, column 34
+      at line 5, column 15
+      at line 5, column 35
+      at line 6, column 15
+      at line 6, column 35
+      at line 7, column 15
+      at line 12, column 34
+      at line 13, column 15
+      at line 13, column 35
+      at line 14, column 15
+      at line 14, column 35
+      at line 15, column 15
+      at line 20, column 34
+      at line 21, column 15
+      at line 21, column 35
+      at line 22, column 15
+      at line 22, column 35
+      at line 23, column 15
+      at line 25, column 40
+      at line 26, column 35
+      at line 27, column 44
+      at line 28, column 26
+      at line 29, column 15
+      at line 29, column 41
+      at line 30, column 15
+      at line 32, column 40
+      at line 33, column 35
+      at line 34, column 51
+      at line 35, column 34
+      at line 36, column 15
+      at line 36, column 41
+      at line 37, column 15
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 53, column 12
+word "wanted" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 7, column 18
+word "warm" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 33, column 19
+word "was" occurs 22 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 9, column 20
+      at line 10, column 12
+      at line 11, column 21
+      at line 12, column 12
+      at line 28, column 20
+      at line 29, column 12
+      at line 30, column 21
+      at line 31, column 12
+      at line 40, column 20
+      at line 41, column 12
+      at line 42, column 25
+      at line 43, column 12
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 2, column 27
+      at line 7, column 1
+      at line 26, column 10
+      at line 27, column 35
+      at line 34, column 25
+      at line 37, column 4
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 7, column 37
+      at line 38, column 43
+      at line 39, column 18
+      at line 45, column 26
+word "waste" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 14, column 27
+word "watch" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 5, column 15
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 27, column 1
+word "water" occurs 2 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 27, column 11
+      at line 37, column 9
+word "way" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 76, column 37
+word "we" occurs 15 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 47, column 5
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 35, column 19
+      at line 37, column 7
+      at line 38, column 17
+      at line 41, column 10
+      at line 42, column 4
+      at line 44, column 1
+      at line 46, column 1
+      at line 47, column 10
+      at line 49, column 5
+      at line 49, column 33
+      at line 50, column 19
+      at line 50, column 35
+      at line 54, column 4
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 3, column 24
+word "we're" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 39, column 4
+word "weed" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 23, column 20
+word "weighed" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 59, column 37
+word "well" occurs 20 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 25, column 1
+      at line 32, column 1
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 5, column 1
+      at line 10, column 1
+      at line 12, column 1
+      at line 21, column 1
+      at line 29, column 1
+      at line 31, column 1
+      at line 32, column 1
+      at line 41, column 1
+      at line 43, column 1
+      at line 52, column 1
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 10, column 1
+      at line 18, column 1
+      at line 26, column 1
+      at line 34, column 1
+      at line 43, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 2, column 1
+      at line 50, column 1
+      at line 78, column 1
+word "went" occurs 6 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 7, column 24
+      at line 44, column 8
+      at line 55, column 4
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 3, column 5
+      at line 36, column 24
+      at line 75, column 17
+word "were" occurs 3 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 41, column 53
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 27, column 1
+      at line 32, column 6
+word "wet" occurs 1 times:
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 18, column 23
+word "what" occurs 35 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 4, column 27
+      at line 5, column 8
+      at line 5, column 28
+      at line 6, column 8
+      at line 6, column 28
+      at line 7, column 8
+      at line 12, column 27
+      at line 13, column 8
+      at line 13, column 28
+      at line 14, column 8
+      at line 14, column 28
+      at line 15, column 8
+      at line 18, column 1
+      at line 20, column 27
+      at line 21, column 8
+      at line 21, column 28
+      at line 22, column 8
+      at line 22, column 28
+      at line 23, column 8
+      at line 25, column 33
+      at line 26, column 28
+      at line 27, column 37
+      at line 28, column 19
+      at line 29, column 8
+      at line 29, column 34
+      at line 30, column 8
+      at line 32, column 33
+      at line 33, column 28
+      at line 34, column 44
+      at line 35, column 27
+      at line 36, column 8
+      at line 36, column 34
+      at line 37, column 8
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 77, column 5
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 29, column 9
+word "wheels" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 36
+word "when" occurs 17 times:
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 9, column 1
+      at line 28, column 1
+      at line 40, column 1
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 2, column 20
+      at line 52, column 29
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 18, column 20
+      at line 24, column 22
+      at line 38, column 12
+      at line 41, column 5
+      at line 47, column 5
+      at line 49, column 28
+      at line 50, column 14
+      at line 59, column 5
+      at line 64, column 21
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 20, column 1
+      at line 32, column 26
+      at line 33, column 24
+word "where" occurs 3 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 9, column 17
+      at line 24, column 19
+      at line 25, column 1
+word "who" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 23, column 19
+word "whoa" occurs 5 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 5, column 1
+      at line 11, column 1
+      at line 22, column 1
+      at line 28, column 1
+      at line 30, column 1
+word "whoah" occurs 2 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 27, column 1
+      at line 34, column 1
+word "whole" occurs 4 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 26, column 1
+      at line 33, column 1
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 12, column 28
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 58, column 35
+word "whoo" occurs 2 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 33, column 41
+      at line 35, column 40
+word "wie" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 20, column 30
+      at line 26, column 30
+word "wieczny" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 14, column 4
+word "wielu" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 7, column 13
+word "wife" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 51, column 20
+word "wild" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 20, column 30
+      at line 66, column 30
+word "will" occurs 5 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 9, column 14
+      at line 14, column 5
+      at line 19, column 14
+      at line 29, column 14
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 23, column 1
+word "win" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 79, column 35
+word "winters" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 20, column 12
+word "with" occurs 11 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 23, column 1
+      at line 30, column 39
+      at line 39, column 1
+      at line 46, column 35
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 45, column 12
+      at line 77, column 17
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 25, column 1
+      at line 25, column 27
+      at line 26, column 17
+      at line 43, column 5
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 8, column 27
+word "within" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 13, column 1
+      at line 26, column 9
+word "wits" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 19, column 25
+word "więc" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 16, column 1
+word "working" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 3, column 21
+word "world" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 59, column 25
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 15, column 10
+word "world's" occurs 2 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 11, column 23
+      at line 16, column 12
+word "worn-out" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 35, column 8
+word "worth" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 13, column 19
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 23, column 34
+word "would" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 13, column 10
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 42, column 33
+word "wouldn't" occurs 4 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 61, column 14
+      at line 69, column 23
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 17, column 8
+      at line 28, column 8
+word "wraz" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 5, column 3
+word "wrong" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 38, column 58
+word "wymarzone" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 22, column 10
+      at line 28, column 10
+word "wymówek" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 2, column 23
+word "ya" occurs 7 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 15, column 8
+      at line 61, column 40
+      at line 62, column 11
+      at line 70, column 5
+      at line 71, column 19
+      at line 71, column 43
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 43, column 14
+word "yard" occurs 2 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 23, column 38
+      at line 39, column 38
+word "yeah" occurs 17 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 29, column 1
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 6, column 41
+      at line 14, column 41
+      at line 22, column 41
+      at line 27, column 7
+      at line 29, column 21
+      at line 34, column 8
+      at line 36, column 21
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 19, column 31
+      at line 43, column 1
+      at line 48, column 1
+      at line 50, column 1
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 11, column 1
+      at line 13, column 1
+      at line 30, column 1
+      at line 44, column 1
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 70, column 5
+word "year" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 4, column 11
+word "years" occurs 4 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 21, column 16
+      at line 37, column 16
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 23, column 31
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 29, column 44
+word "yes" occurs 1 times:
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 32, column 1
+word "you" occurs 58 times:
+   in file "test_dir/Music/Beatles/Love Me Do.txt":
+      at line 2, column 1
+      at line 2, column 17
+      at line 8, column 1
+      at line 8, column 17
+      at line 16, column 14
+      at line 19, column 1
+      at line 19, column 17
+      at line 25, column 1
+      at line 25, column 17
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 2, column 5
+      at line 34, column 14
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 53, column 8
+      at line 56, column 8
+   in file "test_dir/Music/Elvis/Hound Dog.txt":
+      at line 1, column 1
+      at line 3, column 1
+      at line 5, column 7
+      at line 6, column 5
+      at line 9, column 16
+      at line 11, column 17
+      at line 13, column 7
+      at line 14, column 5
+      at line 17, column 1
+      at line 19, column 1
+      at line 21, column 7
+      at line 22, column 5
+      at line 28, column 16
+      at line 30, column 17
+      at line 32, column 7
+      at line 33, column 5
+      at line 40, column 16
+      at line 42, column 1
+      at line 42, column 21
+      at line 44, column 7
+      at line 45, column 5
+      at line 48, column 1
+      at line 50, column 1
+      at line 52, column 7
+      at line 53, column 1
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 3, column 1
+      at line 4, column 12
+      at line 8, column 23
+      at line 18, column 23
+      at line 22, column 9
+      at line 28, column 23
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 39, column 39
+      at line 51, column 8
+      at line 64, column 39
+      at line 67, column 15
+      at line 68, column 12
+      at line 68, column 29
+      at line 69, column 38
+      at line 69, column 45
+      at line 72, column 45
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 75, column 1
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 8, column 4
+      at line 13, column 4
+      at line 18, column 19
+      at line 23, column 4
+word "you'd" occurs 2 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 63, column 8
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 18, column 1
+word "you'll" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 64, column 1
+word "you're" occurs 1 times:
+   in file "test_dir/Music/Johnny Cash/A Boy Named Sue.txt":
+      at line 40, column 5
+word "your" occurs 15 times:
+   in file "test_dir/Music/Beatles/Money.txt":
+      at line 9, column 1
+      at line 10, column 5
+   in file "test_dir/Music/Beatles/Ob-La-Di Ob-La-Da.txt":
+      at line 3, column 38
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 12, column 12
+   in file "test_dir/Music/Johnny Cash/One Piece at a Time.txt":
+      at line 18, column 40
+      at line 64, column 41
+   in file "test_dir/Music/Row Row Row Your Boat.txt":
+      at line 1, column 15
+      at line 6, column 15
+      at line 11, column 15
+      at line 16, column 15
+      at line 26, column 15
+      at line 31, column 15
+      at line 36, column 15
+      at line 41, column 15
+      at line 46, column 15
+word "yours" occurs 1 times:
+   in file "test_dir/Music/Elvis/Love Me Tender.txt":
+      at line 23, column 9
+word "youth's" occurs 1 times:
+   in file "test_dir/Sonnets/sonnets.txt":
+      at line 22, column 5
+word "z" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 5, column 8
+word "ze" occurs 2 times:
+   in file "test_dir/last_sunday.txt":
+      at line 20, column 6
+      at line 26, column 6
+word "świat" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 10, column 24
+word "żałuj" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 16, column 10
+word "że" occurs 1 times:
+   in file "test_dir/last_sunday.txt":
+      at line 3, column 7
+word "а" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 12, column 1
+      at line 20, column 1
+word "аромат" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 2, column 13
+word "бог" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 9, column 1
+word "была" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 2, column 13
+word "в" occurs 5 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 11, column 16
+      at line 16, column 1
+      at line 19, column 16
+      at line 24, column 1
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 8, column 1
+word "вам" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 14, column 1
+      at line 22, column 1
+word "вас" occurs 4 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 15, column 11
+      at line 17, column 3
+      at line 23, column 11
+      at line 25, column 3
+word "ваш" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 14, column 15
+      at line 22, column 15
+word "вдруг" occurs 3 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 6, column 11
+      at line 11, column 10
+      at line 19, column 10
+word "вдыхая" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 2, column 1
+word "венцу" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 5, column 18
+word "вернулись" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 7, column 11
+word "вновь" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 7, column 21
+word "во" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 6, column 17
+word "возвращая" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 14, column 5
+      at line 22, column 5
+word "всегда" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 3, column 1
+word "вскоре" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 7, column 20
+word "вспоминаю" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 3, column 10
+word "вы" occurs 4 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 5, column 5
+      at line 6, column 8
+      at line 12, column 3
+      at line 20, column 3
+word "где" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 8, column 17
+word "горе" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 6, column 21
+word "дана" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 14, column 20
+word "девицу" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 5, column 1
+word "деревню" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 8, column 8
+word "дня" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 11, column 25
+      at line 19, column 25
+word "довольна" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 13, column 12
+word "дыма" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 10, column 25
+      at line 18, column 25
+word "ее" occurs 2 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 4, column 17
+      at line 6, column 9
+word "забуду" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 9, column 6
+word "зажгли" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 6, column 1
+word "замена" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 15, column 1
+word "заметили" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 13, column 6
+      at line 21, column 6
+word "занялась" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 12, column 18
+word "знает" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 9, column 5
+word "и" occurs 8 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 4, column 1
+      at line 7, column 6
+      at line 13, column 1
+      at line 21, column 1
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 3, column 16
+      at line 6, column 1
+      at line 10, column 9
+      at line 13, column 10
+word "к" occurs 2 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 3, column 18
+      at line 5, column 16
+word "как" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 2, column 1
+word "кем" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 9, column 11
+word "лицу" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 3, column 20
+word "любви" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 15, column 5
+      at line 23, column 5
+word "люблю" occurs 4 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 4, column 17
+      at line 8, column 18
+      at line 17, column 19
+      at line 25, column 19
+word "любовь" occurs 3 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 6, column 24
+      at line 10, column 5
+      at line 18, column 5
+word "меня" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 13, column 15
+      at line 21, column 15
+word "мимо" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 12, column 23
+      at line 20, column 23
+word "мне" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 5, column 16
+      at line 6, column 20
+word "моде" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 3, column 11
+word "молю" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 15, column 18
+      at line 23, column 18
+word "моя" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 10, column 1
+      at line 18, column 1
+word "моём" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 16, column 3
+      at line 24, column 3
+word "муж" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 7, column 10
+word "нам" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 14, column 16
+word "не" occurs 10 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 7, column 8
+      at line 9, column 3
+      at line 10, column 14
+      at line 13, column 3
+      at line 15, column 15
+      at line 18, column 14
+      at line 21, column 3
+      at line 23, column 15
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 4, column 5
+      at line 11, column 17
+word "нежное" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 4, column 9
+      at line 8, column 10
+word "нет" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 16, column 22
+      at line 24, column 22
+word "никогда" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 9, column 13
+word "но" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 8, column 1
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 4, column 1
+word "о" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 15, column 3
+      at line 23, column 3
+word "одета" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 2, column 18
+word "окружена" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 9, column 15
+word "он" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 2, column 5
+word "она" occurs 3 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 2, column 9
+      at line 8, column 21
+      at line 15, column 16
+word "письме" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 16, column 8
+      at line 24, column 8
+word "плакала" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 10, column 11
+word "по" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 3, column 8
+word "по-прежнему" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 17, column 7
+      at line 25, column 7
+word "повезли" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 5, column 8
+word "портрет" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 14, column 19
+      at line 22, column 19
+word "потом" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 12, column 1
+word "привыкла" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 13, column 1
+word "привычка" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 14, column 1
+word "прошли" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 12, column 6
+      at line 20, column 6
+word "развелась" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 11, column 20
+word "разумный" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 7, column 1
+word "рассеять" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 6, column 12
+word "рвалась" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 10, column 1
+word "розы" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 2, column 8
+word "с" occurs 3 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 12, column 13
+      at line 20, column 13
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 11, column 1
+word "сад" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 3, column 20
+word "свою" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 8, column 3
+word "свыше" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 14, column 10
+word "сиянье" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 11, column 18
+      at line 19, column 18
+word "сказали" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 5, column 8
+word "слово" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 4, column 3
+      at line 8, column 4
+word "сначала" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 10, column 19
+word "совета" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 4, column 20
+word "спросясь" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 4, column 8
+word "стала" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 13, column 21
+word "струйка" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 10, column 17
+      at line 18, column 17
+word "супругом" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 11, column 3
+word "счастию" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 15, column 8
+word "тает" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 11, column 5
+      at line 19, column 5
+word "тенистый" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 3, column 1
+word "тогда" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 5, column 20
+word "уехал" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 7, column 14
+word "улыбкой" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 12, column 15
+      at line 20, column 15
+word "упрёка" occurs 2 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 16, column 15
+      at line 24, column 15
+word "ушли" occurs 1 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 7, column 1
+word "хозяйством" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 12, column 7
+word "что" occurs 3 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 5, column 1
+      at line 11, column 1
+      at line 19, column 1
+word "чтоб" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 6, column 4
+word "чуть" occurs 1 times:
+   in file "test_dir/yevgeniy_onegin_31.txt":
+      at line 11, column 12
+word "я" occurs 5 times:
+   in file "test_dir/returning_your_portret.txt":
+      at line 9, column 1
+      at line 15, column 1
+      at line 17, column 1
+      at line 23, column 1
+      at line 25, column 1
+
+occurrences      3014
+distinct words   874
+
